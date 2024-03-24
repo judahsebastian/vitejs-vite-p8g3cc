@@ -126,7 +126,7 @@ function App() {
                     navigator.clipboard.writeText(
                       `I completed the RVA Melee crossword in ${
                         document.getElementById('time').innerHTML
-                      }.`
+                      }. https://rb.gy/0kg7aa`
                     );
                     notify();
                   }}
